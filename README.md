@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=LEE%20Hee%20Byeong&fontSize=45&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Lee%20Hee%20Byeong&fontSize=45&animation=twinkling" />
 
 <h2 align='center'> </h2>
 <h3 align='center'>Tech Stack</h3>
@@ -18,6 +18,7 @@
 
 <h2 align='center'> </h2>
 <div align=center>
+  
   ![22-bottle's GitHub stats](https://github-readme-stats.vercel.app/api?username=22-bottle&show_icons=true&theme=default)
 </div>
 
